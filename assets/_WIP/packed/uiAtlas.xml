@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:50007ea32126d57660ec59a72ac3d492$ -->
+<TextureAtlas imagePath="uiAtlas.png">
+    <SubTexture name="_add" x="2" y="260" width="126" height="126" frameX="-1" frameY="-1" frameWidth="128" frameHeight="128"/>
+    <SubTexture name="_block" x="2" y="2" width="128" height="128"/>
+    <SubTexture name="_cross" x="2" y="512" width="120" height="118" frameX="-3" frameY="-5" frameWidth="128" frameHeight="128"/>
+    <SubTexture name="_dcross" x="2" y="632" width="110" height="112" frameX="-9" frameY="-8" frameWidth="128" frameHeight="128"/>
+    <SubTexture name="_line" x="2" y="794" width="64" height="4"/>
+    <SubTexture name="_minus" x="2" y="132" width="126" height="126" frameX="-1" frameY="-1" frameWidth="128" frameHeight="128"/>
+    <SubTexture name="_null" x="48" y="746" width="1" height="1"/>
+    <SubTexture name="_ring" x="2" y="388" width="122" height="122" frameX="-3" frameY="-3" frameWidth="128" frameHeight="128"/>
+    <SubTexture name="_unusable" x="2" y="746" width="44" height="46" frameX="-10" frameY="-8" frameWidth="64" frameHeight="64"/>
+</TextureAtlas>

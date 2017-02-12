@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:44eb3fdd469c644ecf3a5c81db3f2f4c$ -->
+<TextureAtlas imagePath="uiAtlas.png">
+    <SubTexture name="_add" x="2" y="380" width="126" height="126" frameX="-1" frameY="-1" frameWidth="128" frameHeight="128"/>
+    <SubTexture name="_arrow" x="390" y="252" width="110" height="126" frameX="-8" frameY="0" frameWidth="128" frameHeight="128"/>
+    <SubTexture name="_block" x="132" y="38" width="128" height="128"/>
+    <SubTexture name="_cross" x="390" y="132" width="120" height="118" frameX="-3" frameY="-5" frameWidth="128" frameHeight="128"/>
+    <SubTexture name="_dcross" x="2" y="260" width="110" height="112" frameX="-9" frameY="-8" frameWidth="128" frameHeight="128"/>
+    <SubTexture name="_gradient" x="2" y="38" width="128" height="128"/>
+    <SubTexture name="_gradientwline" x="328" y="2" width="128" height="128"/>
+    <SubTexture name="_line" x="262" y="38" width="64" height="4"/>
+    <SubTexture name="_minus" x="262" y="132" width="126" height="126" frameX="-1" frameY="-1" frameWidth="128" frameHeight="128"/>
+    <SubTexture name="_null" x="504" y="2" width="1" height="1"/>
+    <SubTexture name="_pointer" x="2" y="2" width="324" height="34" frameX="0" frameY="-15" frameWidth="324" frameHeight="64"/>
+    <SubTexture name="_ring" x="130" y="168" width="122" height="122" frameX="-3" frameY="-3" frameWidth="128" frameHeight="128"/>
+    <SubTexture name="_unusable" x="458" y="2" width="44" height="46" frameX="-10" frameY="-8" frameWidth="64" frameHeight="64"/>
+</TextureAtlas>
